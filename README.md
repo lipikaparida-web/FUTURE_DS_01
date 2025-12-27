@@ -113,8 +113,6 @@ This document summarizes the key analytical findings and business insights deriv
 ---
 
 
-## 📂 Repository Structure
-
 ## 📁 Repository Structure
 
 - `Ecommerce_Sales_Performance_Dashboard.pbix` → Power BI dashboard file  
